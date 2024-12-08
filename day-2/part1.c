@@ -7,7 +7,7 @@
 #include "defs.h"
 
 int main(int argc, char **argv) {
-    if (argc < 1) {
+    if (argc < 2) {
         printf("Usage: %s <path/to/file.txt>", argv[0]);
         return 0;
     }
