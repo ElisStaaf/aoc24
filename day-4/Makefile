@@ -1,4 +1,4 @@
-all_3: part1-solution part2-solution
+all_4: part1-solution part2-solution
 
 part1-solution: part1.o
 	$(CC) $(CFLAGS) $< -o $@ $(LDFLAGS)
