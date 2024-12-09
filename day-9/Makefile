@@ -1,4 +1,4 @@
-all_5: solution 
+all: solution
 
 solution: main.o
 	$(CC) $(CFLAGS) $< -o $@ $(LDFLAGS)

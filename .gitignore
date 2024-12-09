@@ -52,4 +52,4 @@ Mkfile.old
 dkms.conf
 
 # AOC24 specific files
-*/*-solution
+*/*solution
